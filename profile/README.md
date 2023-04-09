@@ -1,2 +1,2 @@
-# Welcome to DigitalSpaceDesk 👋
+# Welcome to DigitalSpaceHost 👋
 ---
