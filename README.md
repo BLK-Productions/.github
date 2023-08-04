@@ -1,2 +1,2 @@
 # .github
-Config files for DigitalSpaceHost
+Config files for DigitalSpaceDesk
