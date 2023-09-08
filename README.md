@@ -1,2 +1,2 @@
 # .github
-Config files for DigitalSpaceDesk
+Config files for f-l.dev
